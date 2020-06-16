@@ -5,24 +5,15 @@
 layout: home
 ---
 
-Some software I've written that has documentation:
+Some software I've written:
 
 * [salmon], a library for asking the next "best" triplet query to crowdsourcing
   participants.
 * [adadamp], an implementation of a method that adapts batch size to model
   quality. This method improves the convergence of SGD.
 * [swix], the Swift Matrix Library (archived).
-* [drawnow], a small utility to easily create animations in Python. It's a
-  almost a drop-in replacement for the `drawnow` command in MATLAB®.
 * [jem-press], a static site generator inspired by jem-doc with Markdown and
   Mathjax.
-
-
-Other potentially useful software without documentation:
-
-* [talks], slides for talks I've given.
-* [templates]. Like how I style slides/my CV/posters/etc? This might be of
-  interest.
 
 I also wrote some code and documentation for Dask-ML's hyper-parameter
 optimization:
@@ -30,6 +21,15 @@ optimization:
 * [Dask-ML's page on "Hyper-parameter searches"][daskml]. What problems arise in machine
   learning's hyperparameter searches, and what tools can get around those
   problems?
+
+
+Other software I've written without a dedicated documentation page:
+
+* [drawnow], a small utility to easily create animations in Python. It's a
+  almost a drop-in replacement for the `drawnow` command in MATLAB.®
+* [talks], slides for talks I've given.
+* [templates]. Like how I style slides/my CV/posters/etc? This might be of
+  interest.
 
 [daskml]:https://ml.dask.org/hyper-parameter-search.html
 [jem-doc]:http://jemdoc.jaboc.net/
