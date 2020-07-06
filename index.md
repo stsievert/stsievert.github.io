@@ -38,5 +38,5 @@ Other software I've written without a dedicated documentation page:
 [salmon]:/salmon
 [adadamp]:/adadamp
 [swix]:/swix
-[drawnow]:/python-drawnow
+[drawnow]:https://github.com/stsievert/python-drawnow
 [jem-press]:/jem-press
